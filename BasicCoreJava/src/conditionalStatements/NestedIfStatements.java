@@ -21,7 +21,7 @@ public class NestedIfStatements
 			else
 			{
 				System.out.println("a is greater than b but less than c");
-			}/
+			}
 			
 		}
 		else
